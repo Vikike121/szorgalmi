@@ -1,0 +1,46 @@
+body {
+    background-image: url(víz.jpg);
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    background-color: lightblue;
+    letter-spacing: 1px;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    letter-spacing: 0px;
+    font-size: 100px;
+    color:aqua;
+    padding: 40px;
+}
+
+#box1 {
+    width: 400px;
+    height: 75px;
+    background-color: lightseagreen;
+    float: left;
+    text-align: center;
+}
+
+#box2 {
+    margin: auto;
+    width: 400px;
+    height: 75px;
+    float: right;
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+p {
+    padding: 30px;
+}
+
+
